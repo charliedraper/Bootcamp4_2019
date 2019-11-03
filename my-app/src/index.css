@@ -100,3 +100,7 @@ button {
 button:hover {
 	background: #ddd;
 }
+
+.error-text {
+	color: red;
+}
